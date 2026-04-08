@@ -6,6 +6,7 @@
 - 💬 Ask me about **React, Java Script,HTML, CSS, Tailwind,Daisyui, SQL,PL/SQL**
 
 - 📫 How to reach me **sfardhowsy@gmail.com**
+<img width="1536" height="1024" alt="Sultana Fardhowsy&#39;s GitHub introduction banner" src="https://github.com/user-attachments/assets/d59a3524-1d51-4eef-82b8-273f2446b8d1" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
