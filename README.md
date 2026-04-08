@@ -19,24 +19,12 @@
 
 </p>
 
-## 🛠️ Tools & Technologies
-
-- **Frontend:**  
-  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-  ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/React-00D8FF?style=flat-square&logo=react&logoColor=black)
-  ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-- **Database:**  
-  ![SQL](https://img.shields.io/badge/SQL-0074D9?style=flat-square&logo=postgresql)
-  ![PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=flat-square&logo=oracle)
-
-- **Exploring:**  
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sultanafardhowsy&" alt="sultanafardhowsy" /></p>
-
-🛠️ Tech Stack & Dexterity
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" /> </p> <p align="center"> <img src="https://img.shields.io/badge/DaisyUI-%23FF4B2B.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-%2300C7B7.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/PL%2FSQL-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white"/> </p>
-
+🛠️ Tools & Technologies I Use
+💻 Frontend:
+<p> <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-%2300D8FF?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/DaisyUI-%23FF4B2B?style=for-the-badge&logo=tailwind-css&logoColor=white"/> </p>
+🗄️ Database:
+<p> <img src="https://img.shields.io/badge/SQL-%230074D9?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/PLSQL-%23F80000?style=for-the-badge&logo=oracle&logoColor=white"/> </p>
+🚀 Currently Exploring:
+<p> <img src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white"/> </p>
+🎯 Problem Solving:
+<p> <img src="https://img.shields.io/badge/Practice-Coding%20Challenges-ff416c?style=for-the-badge"/> </p>
