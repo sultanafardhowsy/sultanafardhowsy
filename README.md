@@ -29,3 +29,6 @@
 <p> <img src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white"/> </p>
 🎯 Problem Solving:
 <p> <img src="https://img.shields.io/badge/Practice-Coding%20Challenges-ff416c?style=for-the-badge"/> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sultanafardhowsy&" alt="sultanafardhowsy" /></p>
+
