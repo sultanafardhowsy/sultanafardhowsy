@@ -8,17 +8,7 @@
 
 - 📫 How to reach me **sfardhowsy@gmail.com**
 <img width="1536" height="1024" alt="Sultana Fardhowsy&#39;s GitHub introduction banner" src="https://github.com/user-attachments/assets/d59a3524-1d51-4eef-82b8-273f2446b8d1" />
-<h1 align="center">
-  <span style="background: linear-gradient(90deg, #ff4b2b, #ff416c);
-               -webkit-background-clip: text;
-               -webkit-text-fill-color: transparent;">
-    Welcome to My GitHub 🚀
-  </span>
-</h1>
 
-<p align="center">
-  <b>Nice to meet you 😊 I'm Sultana Fardhowsy</b>
-</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&lines=Hello+there!+👋;Thanks+for+visiting+my+GitHub;Nice+to+meet+you!;I'm+Sultana+Fardhowsy;Web+Developer+🚀" />
 </p>
