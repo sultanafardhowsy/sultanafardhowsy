@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sultana fardhowsy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sultana fardhowsy" height="30" width="40" /></a>
 <a href="https://fb.com/sultana fardhowsy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sultana fardhowsy" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/1219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="1219" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
