@@ -19,7 +19,9 @@
 <p align="center">
   <b>Nice to meet you 😊 I'm Sultana Fardhowsy</b>
 </p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&lines=Hello+there!+👋;Thanks+for+visiting+my+GitHub;Nice+to+meet+you!;I'm+Sultana+Fardhowsy;Web+Developer+🚀" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
