@@ -1,3 +1,15 @@
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #ff4b2b, #ff416c);
+               -webkit-background-clip: text;
+               -webkit-text-fill-color: transparent;">
+    Welcome to My GitHub 🚀
+  </span>
+</h1>
+
+<p align="center">
+  <b>Nice to meet you 😊 I'm Sultana Fardhowsy</b>
+</p>
+
 <h1 align="center">Hi 👋, I'm Sultana Fardhowsy</h1>
 <h3 align="center">A passionate frontend developer from Dhaka,Bangladesh</h3>
 
