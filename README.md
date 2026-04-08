@@ -19,12 +19,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sultanafardhowsy&" alt="sultanafardhowsy" /></p>
 
-<h1 align="center">
-  <span style="background: linear-gradient(90deg, #ff4b2b, #ff416c);
-               -webkit-background-clip: text;
-               -webkit-text-fill-color: transparent;">
-    Welcome to My GitHub 🚀
-  </span>
-</h1>
 
-<h3 align="center">Nice to meet you 😊</h3>
