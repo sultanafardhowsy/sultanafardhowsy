@@ -24,4 +24,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sultanafardhowsy&" alt="sultanafardhowsy" /></p>
 
+🛠️ Tech Stack & Dexterity
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" /> </p> <p align="center"> <img src="https://img.shields.io/badge/DaisyUI-%23FF4B2B.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-%2300C7B7.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/PL%2FSQL-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white"/> </p>
 
