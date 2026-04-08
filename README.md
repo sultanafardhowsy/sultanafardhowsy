@@ -1,3 +1,13 @@
+
+<h1 align="center">Hi 👋, I'm Sultana Fardhowsy</h1>
+<h3 align="center">A passionate frontend developer from Dhaka,Bangladesh</h3>
+
+- 🌱 I’m currently learning **Next.js**
+
+- 💬 Ask me about **React, Java Script,HTML, CSS, Tailwind,Daisyui, SQL,PL/SQL**
+
+- 📫 How to reach me **sfardhowsy@gmail.com**
+<img width="1536" height="1024" alt="Sultana Fardhowsy&#39;s GitHub introduction banner" src="https://github.com/user-attachments/assets/d59a3524-1d51-4eef-82b8-273f2446b8d1" />
 <h1 align="center">
   <span style="background: linear-gradient(90deg, #ff4b2b, #ff416c);
                -webkit-background-clip: text;
@@ -10,15 +20,6 @@
   <b>Nice to meet you 😊 I'm Sultana Fardhowsy</b>
 </p>
 
-<h1 align="center">Hi 👋, I'm Sultana Fardhowsy</h1>
-<h3 align="center">A passionate frontend developer from Dhaka,Bangladesh</h3>
-
-- 🌱 I’m currently learning **Next.js**
-
-- 💬 Ask me about **React, Java Script,HTML, CSS, Tailwind,Daisyui, SQL,PL/SQL**
-
-- 📫 How to reach me **sfardhowsy@gmail.com**
-<img width="1536" height="1024" alt="Sultana Fardhowsy&#39;s GitHub introduction banner" src="https://github.com/user-attachments/assets/d59a3524-1d51-4eef-82b8-273f2446b8d1" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
