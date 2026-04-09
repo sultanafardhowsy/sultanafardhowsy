@@ -5,12 +5,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&lines=Hello+there!+👋;Thanks+for+visiting+my+GitHub;Nice+to+meet+you!;I'm+Sultana+Fardhowsy;Web+Developer+🚀" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sultana Fardhowsy</h1>
-<h3 align="center">A passionate frontend developer from Dhaka,Bangladesh</h3>
-
-- 🌱 I’m currently learning **Next.js**
-
-- 💬 Ask me about **React, Java Script,HTML, CSS, Tailwind,Daisyui, SQL,PL/SQL**
+<p align="center">
+Frontend Developer | JavaScript (ES6+) | React | SQL | PL/SQL | Oracle Database | Next.js Explorer
+</p>
 
 - 📫 How to reach me **sfardhowsy@gmail.com**
 
