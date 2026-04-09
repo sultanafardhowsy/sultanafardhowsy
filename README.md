@@ -21,11 +21,11 @@ Frontend Developer | JavaScript (ES6+) | React | SQL | PL/SQL | Oracle Database 
         <li>💡 Favorite: Exploring new technologies & following tech community news</li>
       </ul>
     </td>
-
-    <!-- Right Side (Image) -->
-    <td width="40%" align="center">
+     <td width="40%" align="center">
       <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/coding.gif" width="250px" />
     </td>
+
+    
   </tr>
 </table>
 - 📫 How to reach me **sfardhowsy@gmail.com**
