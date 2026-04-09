@@ -9,6 +9,26 @@
 Frontend Developer | JavaScript (ES6+) | React | SQL | PL/SQL | Oracle Database | Next.js Explorer
 </p>
 
+<table>
+  <tr>
+    <!-- Left Side (Text) -->
+    <td width="60%">
+      <h3>👩‍💻 About Me</h3>
+      <ul>
+        <li>Currently working with <b>JavaScript</b> and <b>React</b></li>
+        <li>Exploring <b>Next.js</b> and <b>MySQL</b></li>
+        <li>📫 Reach me at: <b>sfardhowsy@gmail.com</b></li>
+        <li>💡 Favorite: Exploring new technologies & following tech community news</li>
+      </ul>
+    </td>
+
+    <!-- Right Side (Image) -->
+    <td width="40%" align="center">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250px" />
+    </td>
+  </tr>
+</table>
+
 - 📫 How to reach me **sfardhowsy@gmail.com**
 
 
