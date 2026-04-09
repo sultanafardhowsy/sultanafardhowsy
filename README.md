@@ -1,4 +1,4 @@
-
+<img width="1536" height="1024" alt="Sultana Fardhowsy&#39;s GitHub introduction banner" src="https://github.com/user-attachments/assets/d59a3524-1d51-4eef-82b8-273f2446b8d1" />
 <h1 align="center">Hi 👋, I'm Sultana Fardhowsy</h1>
 <h3 align="center">A passionate frontend developer from Dhaka,Bangladesh</h3>
 
@@ -7,7 +7,7 @@
 - 💬 Ask me about **React, Java Script,HTML, CSS, Tailwind,Daisyui, SQL,PL/SQL**
 
 - 📫 How to reach me **sfardhowsy@gmail.com**
-<img width="1536" height="1024" alt="Sultana Fardhowsy&#39;s GitHub introduction banner" src="https://github.com/user-attachments/assets/d59a3524-1d51-4eef-82b8-273f2446b8d1" />
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&lines=Hello+there!+👋;Thanks+for+visiting+my+GitHub;Nice+to+meet+you!;I'm+Sultana+Fardhowsy;Web+Developer+🚀" />
