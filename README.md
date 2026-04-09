@@ -9,7 +9,8 @@
 Frontend Developer | JavaScript (ES6+) | React | SQL | PL/SQL | Oracle Database | Next.js Explorer
 </p>
 
-<img align="right" width="250" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/coding.gif">
+<img align="right" alt="coding" width="250" 
+src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <ul>
   <li>🚀 Currently working with <b>JavaScript</b> and <b>React</b></li>
