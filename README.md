@@ -29,7 +29,7 @@ Frontend Developer | JavaScript (ES6+) | React | SQL | PL/SQL | Oracle Database 
     
   </tr>
 </table>
-- 📫 How to reach me **sfardhowsy@gmail.com**
+
 
 
 
