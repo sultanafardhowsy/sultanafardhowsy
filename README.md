@@ -22,8 +22,7 @@ Frontend Developer | JavaScript (ES6+) | React | SQL | PL/SQL | Oracle Database 
       </ul>
     </td>
      <td width="40%" align="center">
-     <img align="right" alt="coding" width="250" 
-src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250px" />
      </td>
     </td>
 
