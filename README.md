@@ -24,11 +24,10 @@ Frontend Developer | JavaScript (ES6+) | React | SQL | PL/SQL | Oracle Database 
 
     <!-- Right Side (Image) -->
     <td width="40%" align="center">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250px" />
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250px" />
     </td>
   </tr>
 </table>
-
 - 📫 How to reach me **sfardhowsy@gmail.com**
 
 
