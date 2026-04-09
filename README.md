@@ -17,14 +17,14 @@ Frontend Developer | JavaScript (ES6+) | React | SQL | PL/SQL | Oracle Database 
       <ul>
         <li>Currently working with <b>JavaScript</b> and <b>React</b></li>
         <li>Exploring <b>Next.js</b> and <b>MySQL</b></li>
-        <li>📫 Reach me at: <b>sfardhowsy@gmail.com</b></li>
+        <li>📫 Reach me at: <a href="mailto:sfardhowsy@gmail.com">sfardhowsy@gmail.com</a></li>
         <li>💡 Favorite: Exploring new technologies & following tech community news</li>
       </ul>
     </td>
 
     <!-- Right Side (Image) -->
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250px" />
+      <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/coding.gif" width="250px" />
     </td>
   </tr>
 </table>
