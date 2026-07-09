@@ -44,7 +44,7 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-%2300D8FF?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -56,14 +56,14 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p>
   <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle%20Database-%23F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-%230074D9?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PLSQL-%23F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/SQL-%230074D9?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PLSQL-%23F80000?style=for-the-badge&logo=oracle&logoColor=white"/> -->
 </p>
 
 #### Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/SQL-%230074D9?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PLSQL-%23F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
@@ -75,6 +75,8 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
   <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
+🌱 Currently Exploring:
+  <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 🎯 Problem Solving:
 <p> <img src="https://img.shields.io/badge/Practice-Coding%20Challenges-ff416c?style=for-the-badge"/> </p>
 
