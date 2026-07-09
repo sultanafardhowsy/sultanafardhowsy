@@ -16,6 +16,7 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
   <li>🚀 Currently working with <b>JavaScript</b> and <b>React</b></li>
   <li>🌱 Exploring <b>Next.js</b> and <b>MySQL</b></li>
   <li>📫 Reach me at: <a href="mailto:sfardhowsy@gmail.com">sfardhowsy@gmail.com</a></li>
+  <li>📫 Visit my portfolio: <a href="https://sultanafardhowsy.vercel.app"></a></li>
   <li>💡 Favorite: Exploring new technologies & following tech community news</li>
 </ul>
 
